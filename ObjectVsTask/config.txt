@@ -1,0 +1,35 @@
+[HIT Configuration]
+title = Image Selection Test
+description = Select one of two images - each has a chance of paying a bonus award.
+amt_keywords = Perception, Psychology
+lifetime = 24
+us_only = true
+approve_requirement = 95
+contact_email_on_error = danieljwilson@gmail.com
+ad_group = Test Experiment
+psiturk_keywords = test
+organization_name = University
+browser_exclude_rule = MSIE, mobile, tablet
+
+[Database Parameters]
+database_url = mysql://gecia:dapper@localhost:3306/psiTurk
+table_name = Images01
+
+[Server Parameters]
+host = 0.0.0.0
+port = 22362
+cutoff_time = 30
+logfile = server.log
+loglevel = 2
+debug = true
+login_username = examplename
+login_pw = examplepassword
+threads = auto
+
+[Task Parameters]
+experiment_code_version = 1.0
+num_conds = 1
+num_counters = 1
+
+[Shell Parameters]
+launch_in_sandbox_mode = true
