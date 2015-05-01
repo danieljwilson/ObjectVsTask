@@ -6903,3 +6903,34 @@ OperationalError: (OperationalError) (2006, 'MySQL server has gone away') 'SELEC
 2015-04-23 13:02:17,360 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
 2015-04-23 13:02:17,370 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
 2015-04-23 13:02:17,376 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 21:20:04,339 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 21:20:04,388 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 21:20:04,727 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 21:20:04,948 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 21:20:04,967 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 21:20:05,021 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 21:20:05,059 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 21:20:05,064 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 21:20:05,196 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2015-05-01 00:51:33 -0400] [57308] [CRITICAL] WORKER TIMEOUT (pid:57312)
+[2015-05-01 00:51:33 -0400] [57308] [CRITICAL] WORKER TIMEOUT (pid:57313)
+[2015-05-01 00:51:33 -0400] [57308] [CRITICAL] WORKER TIMEOUT (pid:57314)
+[2015-05-01 00:51:33 -0400] [57308] [CRITICAL] WORKER TIMEOUT (pid:57315)
+[2015-05-01 00:51:33 -0400] [57308] [CRITICAL] WORKER TIMEOUT (pid:57316)
+[2015-05-01 00:51:33 -0400] [57308] [CRITICAL] WORKER TIMEOUT (pid:57317)
+[2015-05-01 00:51:33 -0400] [57308] [CRITICAL] WORKER TIMEOUT (pid:57318)
+[2015-05-01 00:51:33 -0400] [57308] [CRITICAL] WORKER TIMEOUT (pid:57319)
+[2015-05-01 00:51:33 -0400] [57308] [CRITICAL] WORKER TIMEOUT (pid:57320)
+2015-05-01 00:51:35,600 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:51:35,607 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:51:35,613 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:51:35,619 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:51:35,629 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:51:35,651 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:51:35,656 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:51:35,664 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:51:35,674 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+[2015-05-01 10:15:19 -0400] [57308] [CRITICAL] WORKER TIMEOUT (pid:57781)
+[2015-05-01 10:15:19 -0400] [57308] [CRITICAL] WORKER TIMEOUT (pid:57784)
+2015-05-01 10:15:27,410 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 10:15:27,411 /Users/djw/anaconda/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js

@@ -12,8 +12,8 @@ organization_name = University
 browser_exclude_rule = MSIE, mobile, tablet
 
 [Database Parameters]
-database_url = mysql://gecia:dapper@localhost:3306/psiTurk
-table_name = Images01
+database_url = mysql://djw:dapper@localhost:3306/testdb
+table_name = ObjectTask01
 
 [Server Parameters]
 host = 0.0.0.0
